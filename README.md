@@ -1,12 +1,13 @@
-# Health Insurance Analysis GUI
+# Data Analysis GUI
+![sample]("https://github.com/runnerGaz/_ml_project/blob/main/image.png")
 
 ## Overview
 
-The **Health Insurance Analysis GUI** is a Python-based application that allows users to perform graphical analysis on health insurance datasets. Users can upload CSV files and visualize the data using various types of plots, such as bar plots, scatter plots, and more. The application provides an interactive user interface using `Tkinter`, `Pandas`, `Matplotlib`, and `Seaborn`.
+The **Data Analysis GUI** is a Python-based application that allows users to perform graphical analysis on various datasets. Users can upload CSV files and visualize the data using different types of plots, such as bar plots, scatter plots, and more. The application provides an interactive user interface using `Tkinter`, `Pandas`, `Matplotlib`, and `Seaborn`.
 
 ## Features
 
-- Upload any CSV file to analyze health insurance data.
+- Upload any CSV file to analyze a wide range of datasets.
 - Interactive GUI for selecting different types of plots.
 - Support for multiple types of plots:
   - Pair Plot
@@ -34,4 +35,3 @@ You can install the required libraries using pip:
 
 ```bash
 pip install pandas matplotlib seaborn Pillow
-
