@@ -1,5 +1,5 @@
 # Data Analysis GUI
-![sample]("https://github.com/runnerGaz/_ml_project/blob/main/image.png")
+![sample](https://github.com/runnerGaz/_ml_project/blob/main/image.png)
 
 ## Overview
 
