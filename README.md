@@ -34,6 +34,4 @@ You can install the required libraries using pip:
 
 ```bash
 pip install pandas matplotlib seaborn Pillow
-![image](https://github.com/user-attachments/assets/2fc9f7db-1826-4fc6-87f5-1e96b2f5bdaa)
-![image](https://github.com/user-attachments/assets/a15bada2-0fb2-4ca4-993c-15615ff11a36)
 
